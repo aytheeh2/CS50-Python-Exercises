@@ -1,4 +1,4 @@
-# Python Solutions Repository
+# Python CS50 Solutions Repository
 Welcome to the Python Solutions Repository! This repository contains my solutions to various coding challenges, problems, and projects implemented in Python.
 
 ## Introduction
